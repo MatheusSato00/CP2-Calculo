@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
  
+ #Questão 2 - Fluxo de clientes em um supermercado
+
 h = np.linspace(0, 24, 300)
 N = 900 - 800*np.sin((np.pi/12)*h)
  

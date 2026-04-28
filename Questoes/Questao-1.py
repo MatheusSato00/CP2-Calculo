@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+#Questão 1 - Latência de uma plataforma digital
 
 d = 1 # coloque seu último dígito (se for 0, use 10)
 

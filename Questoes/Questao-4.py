@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
  
+ #Questão 4 - Crescimento de acessos em uma plataforma educacional
+
 x = np.linspace(0, 12, 300)
 A = 250*(1.15**x)
  
